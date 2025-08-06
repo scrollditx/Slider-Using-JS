@@ -1,46 +1,58 @@
 # Modern Homepage with Custom JavaScript Slider
 
-This project showcases a **responsive** and **aesthetically pleasing modern homepage**, featuring a dynamic image slider built entirely with **vanilla JavaScript**. The design emphasizes a clean, dark theme with a focus on user experience and visual appeal.
+A responsive, modern homepage featuring a custom-built image slider using vanilla JavaScript. This project demonstrates a clean dark theme, smooth user experience, and a visually engaging layout—perfect as a template for landing pages or portfolios.
+
+---
+
+## 🚀 Live Demo
+
+[View Live Demo](https://your-vercel-link-here) <!-- Replace with your actual live link -->
 
 ---
 
 ## ✨ Features
 
 - **Responsive Design:**  
-  Built with Bootstrap 5 for seamless adaptability across various screen sizes (mobile, tablet, desktop).
+  Built with Bootstrap 5 for seamless adaptability across all devices.
 
 - **Custom JavaScript Slider:**  
-  A smooth, interactive image slider implemented from scratch using JavaScript, providing full control over its behavior.
+  Interactive, smooth image slider built from scratch with vanilla JS.
 
-- **Auto-Play Functionality:**  
-  The slider automatically advances slides at a set interval, with the ability to pause on mouse hover for user convenience.
+- **Auto-Play & Pause on Hover:**  
+  Slides advance automatically, pausing when hovered for user convenience.
 
-- **Intuitive Navigation:**  
-  Clear "Previous" and "Next" buttons for manual slide control.
+- **Manual Navigation:**  
+  "Previous" and "Next" buttons for easy manual control.
 
 - **Modern UI/UX:**  
-  Dark theme, elegant typography (Montserrat font), subtle hover effects, and a clean layout for an engaging user experience.
+  Dark theme, Montserrat font, elegant typography, and subtle hover effects.
 
 - **Font Awesome Icons:**  
-  Utilizes Font Awesome for scalable vector icons, enhancing visual elements.
+  Scalable vector icons for enhanced visual appeal.
 
 - **Placeholder Content:**  
-  Includes "Lorem Ipsum" text for easy content replacement and a services section to demonstrate a typical homepage layout.
+  Includes "Lorem Ipsum" text and a services section for easy customization.
 
 ---
 
 ## 🛠️ Technologies Used
 
-- **HTML5:** For the basic structure and content of the webpage.
-- **CSS3:** For styling, including custom dark theme, responsive adjustments, and visual enhancements.
-- **JavaScript (Vanilla JS):** Powers the dynamic slider functionality.
-- **Bootstrap 5:** Used for responsive grid system, navigation bar, and card components.
-- **Font Awesome 6.5.2:** For scalable icons.
+- **HTML5** – Semantic markup and structure
+- **CSS3** – Custom dark theme, responsive styles, and visual enhancements
+- **JavaScript (Vanilla JS)** – Slider logic and interactivity
+- **Bootstrap 5** – Responsive grid, navbar, and cards
+- **Font Awesome 6.5.2** – Scalable vector icons
 
 ---
 
-## 🚀 Live Demo
+## 📸 Screenshots
 
-You can view a live demonstration of this project here:
+<!-- Add your screenshots here -->
+<!--
+![Homepage Screenshot](screenshots/homepage.png)
+![Slider Screenshot](screenshots/slider.png)
+-->
 
-[Modern Homepage with Slider]()
+---
+
+## 📂 Project Structure
